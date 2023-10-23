@@ -1,5 +1,8 @@
 # latihan_layout_pert3
 
+![image](https://github.com/DedeSnrwn13/latihan-2-mobile-2/assets/46914100/1276c2b3-1e24-4d07-abd4-6e9cdc8a4458)
+
+
 A new Flutter project.
 
 ## Getting Started
